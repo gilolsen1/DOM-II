@@ -84,7 +84,7 @@ signUPbuttons.forEach(function(argument) {
   });
 });
 
-///ARROW VERSION
+///5ARROW VERSION
 
 const copyWrong = document.querySelector(".footer");
 
@@ -92,7 +92,7 @@ copyWrong.addEventListener("click", event => {
   event.target.className = "blackback";
 });
 
-//5  select     console.log the text selected when highlighted.
+//6  select     console.log the text selected when highlighted.
 
 //6  double click
 //7 keydown
